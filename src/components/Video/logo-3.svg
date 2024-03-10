@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 390 295" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 22.879 3.716 L 23.393 2.854 C 24.6 0.828 27.63 0.822 28.845 2.844 C 28.847 2.847 28.849 2.85 28.851 2.854 L 49.855 38.08 L 12.874 38.061 L 15.42 33.815 L 41.349 33.815 L 22.879 3.716 Z" style="fill: url('#a');"/>
+  <path d="M 50.764 39.601 C 51.97 41.625 50.455 44.15 48.035 44.15 L 5.255 44.15 L 24.007 12.368 L 26.138 15.911 L 12.877 38.057 L 49.856 38.079 L 50.764 39.601 Z" style="fill: url('#b');"/>
+  <path d="M 4.21 44.149 C 1.789 44.149 0.275 41.624 1.481 39.6 L 22.88 3.715 L 41.35 33.814 L 36.908 33.813 L 24.008 12.367 L 5.256 44.149 L 4.21 44.149 Z" style="fill: url('#c');"/>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-40.287506, 10.239232, -10.618095, -38.850014, 41.33815, 33.91309)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:black;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(13.978144, -36.748692, 38.108433, 13.479392, 12.874779, 38.079109)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:black;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(25.773466, 31.781734, -32.957695, 24.853848, 24.048637, 12.362048)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:black;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9.7px; font-style: italic; font-weight: 700; white-space: pre;" x="36.525" y="10.279" transform="matrix(1, 0, 0, 1, -2.767274, -0.17547)">StarCom<tspan x="36.525001525878906" dy="1em">​</tspan>  Systems</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5.7px; font-style: italic; white-space: pre;" x="64.196" y="72.102" transform="matrix(1, 0, 0, 1, -18.372906, -45.207657)">Innovation <tspan x="64.19599914550781" dy="1em">​</tspan>  Starts <tspan x="64.19599914550781" dy="1em">​</tspan>    Here</text>
+</svg>
