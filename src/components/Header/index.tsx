@@ -47,6 +47,7 @@ const Header = () => {
             : "absolute bg-transparent"
         }`}
       >
+        {/* TODO: Create Logo for Light & Dark Themes */}
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
             <div className="w-200 max-w-full px-4 xl:mr-12">
@@ -56,15 +57,17 @@ const Header = () => {
                   sticky ? "py-5 lg:py-2" : "py-8"
                 } `}
               >
-                {/* <Image
+                {/* Light Theme */}
+                <Image
                   src="/images/logo/logo.svg"
                   alt="logo"
                   width={100}
                   height={200}
                   className="w-full dark:hidden"
-                /> */}
+                />
+                {/* Dark Theme */}
                 <Image
-                  src="/images/logo/logo-3.svg"
+                  src="/images/logo/logo.svg"
                   alt="logo"
                   width={200}
                   height={40}
@@ -159,7 +162,7 @@ const Header = () => {
                 </nav>
               </div>
               <div className="flex items-center justify-end pr-16 lg:pr-0">
-                <Link
+                {/* <Link
                   href="/signin"
                   className="hidden px-7 py-3 text-base font-medium text-dark hover:opacity-70 dark:text-white md:block"
                 >
@@ -170,10 +173,10 @@ const Header = () => {
                   className="ease-in-up hidden rounded-sm bg-primary px-8 py-3 text-base font-medium text-white shadow-btn transition duration-300 hover:bg-opacity-90 hover:shadow-btn-hover md:block md:px-9 lg:px-6 xl:px-9"
                 >
                   Sign Up
-                </Link>
-                {/* <div>
+                </Link> */}
+                <div>
                   <ThemeToggler />
-                </div> */}
+                </div>
               </div>
             </div>
           </div>

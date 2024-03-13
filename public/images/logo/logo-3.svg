@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 390 295" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 80.221 11.459 L 82.087 7.797 C 86.465 -0.801 97.455 -0.825 101.864 7.756 C 101.872 7.769 101.88 7.781 101.885 7.797 L 178.084 157.338 L 43.926 157.256 L 53.163 139.229 L 147.227 139.229 L 80.221 11.459 Z" style="fill: url('#a');"/>
-  <path d="M 181.383 163.793 C 185.758 172.386 180.261 183.103 171.482 183.103 L 16.284 183.103 L 84.313 48.187 L 92.044 63.227 L 43.936 157.238 L 178.087 157.331 L 181.383 163.793 Z" style="fill: url('#b');"/>
-  <path d="M 12.493 183.1 C 3.712 183.1 -1.783 172.379 2.594 163.788 L 80.225 11.452 L 147.229 139.227 L 131.115 139.221 L 84.316 48.181 L 16.29 183.1 L 12.493 183.1 Z" style="fill: url('#c');"/>
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 390 295"
+  xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M 80.221 11.459 L 82.087 7.797 C 86.465 -0.801 97.455 -0.825 101.864 7.756 C 101.872 7.769 101.88 7.781 101.885 7.797 L 178.084 157.338 L 43.926 157.256 L 53.163 139.229 L 147.227 139.229 L 80.221 11.459 Z"
+    style="fill: url('#a');" />
+  <path
+    d="M 181.383 163.793 C 185.758 172.386 180.261 183.103 171.482 183.103 L 16.284 183.103 L 84.313 48.187 L 92.044 63.227 L 43.936 157.238 L 178.087 157.331 L 181.383 163.793 Z"
+    style="fill: url('#b');" />
+  <path
+    d="M 12.493 183.1 C 3.712 183.1 -1.783 172.379 2.594 163.788 L 80.225 11.452 L 147.229 139.227 L 131.115 139.221 L 84.316 48.181 L 16.29 183.1 L 12.493 183.1 Z"
+    style="fill: url('#c');" />
   <defs>
-    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(-146.154561, 43.466352, -38.520206, -164.921385, 147.187188, 139.647074)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1"/>
-      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0"
+      gradientTransform="matrix(-146.154561, 43.466352, -38.520206, -164.921385, 147.187188, 139.647074)"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1" />
+      <stop offset="1" style="stop-color:black;stop-opacity:0" />
     </linearGradient>
-    <linearGradient id="b" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(50.709751, -156.001102, 138.249337, 57.221085, 43.928099, 157.332156)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1"/>
-      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    <linearGradient id="b" x1="0" x2="1" y1="0" y2="0"
+      gradientTransform="matrix(50.709751, -156.001102, 138.249337, 57.221085, 43.928099, 157.332156)"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1" />
+      <stop offset="1" style="stop-color:blue;stop-opacity:0" />
     </linearGradient>
-    <linearGradient id="c" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(93.500689, 134.91597, -119.563556, 105.506552, 84.464495, 48.161191)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1"/>
-      <stop offset="1" style="stop-color:black;stop-opacity:0"/>
+    <linearGradient id="c" x1="0" x2="1" y1="0" y2="0"
+      gradientTransform="matrix(93.500689, 134.91597, -119.563556, 105.506552, 84.464495, 48.161191)"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#4A6CF7;stop-opacity:1" />
+      <stop offset="1" style="stop-color:blue;stop-opacity:0" />
     </linearGradient>
   </defs>
-  <text style="fill: rgb(74, 108, 246); font-family: Arial, sans-serif; font-size: 9.7px; font-style: italic; font-weight: 700; white-space: pre;" x="36.525" y="10.279" transform="matrix(4.223275, 0, 0, 4.245081, -34.568016, -5.061569)">StarCom<tspan x="36.525001525878906" dy="1em">​</tspan>  Systems</text>
-  <text style="fill: rgb(122, 141, 209); font-family: Arial, sans-serif; font-size: 5.7px; font-style: italic; white-space: pre;" x="64.196" y="72.102" transform="matrix(5.466444, 0, 0, 5.076344, -187.466125, -251.861008)">Innovation <tspan x="64.19599914550781" dy="1em">​</tspan>  Starts <tspan x="64.19599914550781" dy="1em">​</tspan>    Here</text>
+  <!-- Company Name -->
+  <text
+    style="fill: rgb(50, 88, 250); font-family: Arial, sans-serif; font-size: 9.7px; font-style: italic; font-weight: 700; white-space: pre;"
+    x="36.525" y="10.279" transform="matrix(4.223275, 0, 0, 4.245081, -34.568016, -5.061569)">StarCom
+    <tspan x="37" dy="1em">​</tspan>&#160;&#160;Systems
+  </text>
+  <!-- Company Slogan -->
+  <text
+    style="fill: rgb(122, 160, 240); font-family: Arial, sans-serif; font-size: 4.5px; font-style: italic; white-space: pre;"
+    x="65.5" y="73" transform="matrix(5.466444, 0, 0, 5.076344, -187.466125, -251.861008)">Innovation
+    <tspan x="67.5" dy="1em">​</tspan>Starts
+    <tspan x="69.5" dy="1em">​</tspan>Here
+  </text>
 </svg>
