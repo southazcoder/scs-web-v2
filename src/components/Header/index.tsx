@@ -47,7 +47,7 @@ const Header = () => {
             : "absolute bg-transparent"
         }`}
       >
-        {/* TODO: Create Logo for Light & Dark Themes */}
+        {/* TODO: Create Logo for Light & Dark  */}
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
             <div className="w-200 max-w-full px-4 xl:mr-12">
