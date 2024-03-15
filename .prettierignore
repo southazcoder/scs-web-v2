@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML & SVG files:
+**/*.html
+**/*.svg
+
+# Ignore all in the following paths:
+/public/images
