@@ -1,5 +1,6 @@
 ## Status Badges
 ![Vercel](https://vercelbadge.vercel.app/api/southazcoder/scs-web-v2)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 # Startup - Free Next.js Startup Website Template
 
