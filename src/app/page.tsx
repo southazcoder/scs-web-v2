@@ -1,15 +1,17 @@
+import { Metadata } from "next";
+
 import AboutSectionOne from "@/components/About/AboutSectionOne";
-import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Brands from "@/components/Brands";
-import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
-import Testimonials from "@/components/Testimonials";
-import Video from "@/components/Video";
-import { Metadata } from "next";
+import ScrollUp from "@/components/Common/ScrollUp";
+
+// import AboutSectionTwo from "@/components/About/AboutSectionTwo";
+// import Testimonials from "@/components/Testimonials";
+// import Video from "@/components/Video";
 
 export const metadata: Metadata = {
   title: "StarCom Systems LLC",
@@ -24,12 +26,14 @@ export default function Home() {
       <Hero />
       <Features />
       {/* <Video /> */}
+      {/* Companies serviced */}
       <Brands />
+      {/* Short Summaries */}
       <AboutSectionOne />
-      <AboutSectionTwo />
-      <Testimonials />
-      <Pricing />
-      <Blog />
+      {/* <AboutSectionTwo /> */}
+      {/* <Testimonials /> */}
+      {/* <Pricing /> */}
+      {/* <Blog /> */}
       <Contact />
     </>
   );

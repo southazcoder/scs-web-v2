@@ -12,14 +12,14 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo-3.svg"
+                    src="/images/logo/logo.svg"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={100}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/logo-3.svg"
+                    src="/images/logo/logo.svg"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={100}
@@ -31,9 +31,10 @@ const Footer = () => {
                   Integer lobortis.
                 </p> */}
                 <div className="flex items-center">
+                  {/* Facebook */}
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://www.facebook.com/starcomsysllc"
+                    aria-label="facebook"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -51,9 +52,10 @@ const Footer = () => {
                       />
                     </svg>
                   </a>
+                  {/* X / Twitter */}
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://twitter.com/gypsynomad11"
+                    aria-label="twitter"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -73,9 +75,10 @@ const Footer = () => {
                       />
                     </svg>
                   </a>
+                  {/* YouTube */}
                   <a
                     href="/"
-                    aria-label="social-link"
+                    aria-label="youtube"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -89,9 +92,10 @@ const Footer = () => {
                       <path d="M17.5058 2.07119C17.3068 1.2488 16.7099 0.609173 15.9423 0.395963C14.5778 7.26191e-08 9.0627 0 9.0627 0C9.0627 0 3.54766 7.26191e-08 2.18311 0.395963C1.41555 0.609173 0.818561 1.2488 0.619565 2.07119C0.25 3.56366 0.25 6.60953 0.25 6.60953C0.25 6.60953 0.25 9.68585 0.619565 11.1479C0.818561 11.9703 1.41555 12.6099 2.18311 12.8231C3.54766 13.2191 9.0627 13.2191 9.0627 13.2191C9.0627 13.2191 14.5778 13.2191 15.9423 12.8231C16.7099 12.6099 17.3068 11.9703 17.5058 11.1479C17.8754 9.68585 17.8754 6.60953 17.8754 6.60953C17.8754 6.60953 17.8754 3.56366 17.5058 2.07119ZM7.30016 9.44218V3.77687L11.8771 6.60953L7.30016 9.44218Z" />
                     </svg>
                   </a>
+                  {/* LinkedIn */}
                   <a
                     href="/"
-                    aria-label="social-link"
+                    aria-label="linkedin"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
