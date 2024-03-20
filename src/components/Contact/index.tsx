@@ -1,6 +1,3 @@
-// import NewsLetterBox from "./NewsLetterBox";
-
-import Svg3 from "../Svg/svg-3";
 import ContactForm from "./ContactForm";
 
 const Contact = () => {
