@@ -3,7 +3,6 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
-import Svg2 from "../Svg/svg-3";
 
 const formSchema = z.object({
   name: z.string().min(2, {
