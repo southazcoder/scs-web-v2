@@ -218,7 +218,7 @@ const Svg3 = () => {
               y2="188.617"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 offset="0.328125"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
               />
@@ -226,7 +226,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop offset="0.328125" stopColor="white" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>
