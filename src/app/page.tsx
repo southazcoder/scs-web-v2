@@ -6,8 +6,8 @@ import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import ScrollUp from "@/components/Common/ScrollUp";
-import NewsLetterBox from "@/components/Newsletter";
-import Video from "@/components/Video";
+// import NewsLetterBox from "@/components/Newsletter";
+// import Video from "@/components/Video";
 
 // import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 // import Blog from "@/components/Blog";
@@ -38,7 +38,7 @@ export default function Home() {
       {/* <Pricing /> */}
       {/* <Blog /> */}
       <Contact />
-      <NewsLetterBox />
+      {/* <NewsLetterBox /> */}
     </>
   );
 }

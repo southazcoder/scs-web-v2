@@ -1,7 +1,7 @@
-import { useTheme } from "next-themes";
+// import { useTheme } from "next-themes";
 
 const Svg3 = () => {
-  const { theme } = useTheme();
+  // const { theme } = useTheme();
 
   return (
     <>
@@ -27,7 +27,7 @@ const Svg3 = () => {
               y2="15.3509"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0.62"
               />
@@ -35,7 +35,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop stopColor="white" stopOpacity="0.62" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>
@@ -63,7 +65,7 @@ const Svg3 = () => {
               y2="10.2511"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0.62"
               />
@@ -71,7 +73,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop stopColor="white" stopOpacity="0.62" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>
@@ -99,7 +103,7 @@ const Svg3 = () => {
               y2="26.7564"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0.62"
               />
@@ -107,7 +111,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop stopColor="white" stopOpacity="0.62" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>
@@ -152,7 +158,7 @@ const Svg3 = () => {
               y2="237.617"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 offset="0.328125"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
               />
@@ -160,7 +166,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop offset="0.328125" stopColor="white" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_1028_603"
@@ -170,7 +178,7 @@ const Svg3 = () => {
               y2="212.617"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 offset="0.328125"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
               />
@@ -178,7 +186,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop offset="0.328125" stopColor="white" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_1028_603"
@@ -188,7 +198,7 @@ const Svg3 = () => {
               y2="221.617"
               gradientUnits="userSpaceOnUse"
             >
-              <stop
+              {/* <stop
                 offset="0.328125"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
               />
@@ -196,7 +206,9 @@ const Svg3 = () => {
                 offset="1"
                 stopColor={theme === "light" ? "#4A6CF7" : "#fff"}
                 stopOpacity="0"
-              />
+              /> */}
+              <stop offset="0.328125" stopColor="white" />
+              <stop offset="1" stopColor="white" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint3_linear_1028_603"

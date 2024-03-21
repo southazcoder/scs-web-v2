@@ -148,7 +148,7 @@ export default function ContactForm() {
           <div className="w-full px-4">
             <button
               type="submit"
-              className="inline-block w-full rounded-lg bg-black px-5 py-3 font-medium text-white sm:w-auto"
+              className="mt-3 rounded-lg bg-primary px-9 py-4 text-base font-medium text-white shadow-submit duration-300 hover:bg-primary/90 dark:shadow-submit-dark"
             >
               Send Message
             </button>
