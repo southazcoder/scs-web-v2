@@ -46,7 +46,7 @@ export default function ContactForm() {
   return (
     <>
       <form onSubmit={handleSubmit(onSubmit)}>
-        <div className="-mx-4 flex flex-wrap">
+        <div className="-mx-4 flex flex-wrap ">
           {/* Submitters Name */}
           <div className="w-full px-4 md:w-1/2">
             <div className="mb-8">
