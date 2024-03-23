@@ -38,7 +38,7 @@ const TermsPage = () => {
             <div className="text-justify">
               <p className="mb-4 font-medium text-body-color">
                 These Terms of Service (&quot;Terms&quot;) govern your use of
-                StarCom Systems LLC 's website [starcomsys.net] (the
+                StarCom Systems LLC&apos;s website [starcomsys.net] (the
                 &quot;Site&quot;) and any software, products, or services
                 offered by [StarCom Systems, LLC] (collectively, the
                 &quot;Services&quot;). By accessing or using the Site or
@@ -78,10 +78,11 @@ const TermsPage = () => {
             <div className="text-justify">
               <h2>Limitation of Liability</h2>
               <p className="mb-4 font-medium text-body-color">
-                To the fullest extent permitted by law, [Company Name] shall not
-                be liable for any indirect, incidental, special, consequential,
-                or punitive damages, or any loss of profits or revenue, arising
-                out of or in connection with your use of the Site or Services.
+                To the fullest extent permitted by law, StarCom Systems LLC
+                shall not be liable for any indirect, incidental, special,
+                consequential, or punitive damages, or any loss of profits or
+                revenue, arising out of or in connection with your use of the
+                Site or Services.
               </p>
             </div>
             <div className="text-justify">
