@@ -15,11 +15,11 @@ const TermsPage = () => {
 
   return (
     <section
-      id="privacy"
+      id="terms"
       className="overflow-hidden py-8 text-lg md:py-10 lg:py-14"
     >
       <div className="border-2 border-black">
-        <div className="mx-auto w-1/2 p-4 lg:w-7/12 xl:w-8/12">
+        <div className="mx-auto w-1/2 p-4 lg:w-6/12 xl:w-7/12">
           <div
             className="first-letter: rounded-lg border-2 border-blue-900 shadow-three dark:bg-gray-dark sm:p-[55px] lg:px-8 xl:p-[55px]"
             data-wow-delay=".15s"

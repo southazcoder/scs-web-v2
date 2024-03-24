@@ -6,10 +6,14 @@ import { Boxes } from "./svg-boxes";
 import { Checkmark } from "./svg-checkmark";
 import { CopyBoxes } from "./svg-copy_boxes";
 import { Cube } from "./svg-cube";
+import { DarkTheme } from "./svg-dark-theme";
 import { DocRecycle } from "./svg-doc_recycle";
 import { Dots } from "./svg-dots";
 import { GearReset } from "./svg-gear_reset";
 import { Layers } from "./svg-layers";
+import { LightTheme } from "./svg-light-theme";
+import { NotFoundError } from "./svg-404";
+import { Parallelograms } from "./svg-parallelograms";
 import { Triangles } from "./svg-triangles";
 
 export {
@@ -18,12 +22,16 @@ export {
   Checkmark,
   CopyBoxes,
   Cube,
+  DarkTheme,
   DocRecycle,
   Dots,
   GearReset,
   Layers,
-  Triangles,
+  LightTheme,
+  NotFoundError,
+  Parallelograms,
   Svg1,
   Svg2,
   Svg3,
+  Triangles,
 };

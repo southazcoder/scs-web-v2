@@ -21,29 +21,35 @@ const menuData: Menu[] = [
   // },
   {
     id: 4,
-    title: "Support",
-    path: "/support",
+    title: "Products",
+    path: "/products",
     newTab: false,
   },
   {
-    id: 5,
-    title: "Contact Us",
-    path: "/contact",
-    newTab: false,
-  },
-  {
-    id: 4,
+    id: 9,
     title: "Pages",
     newTab: false,
     submenu: [
       {
-        id: 41,
+        id: 91,
+        title: "Contact Us",
+        path: "/contact",
+        newTab: false,
+      },
+      {
+        id: 92,
+        title: "Support",
+        path: "/support",
+        newTab: false,
+      },
+      {
+        id: 93,
         title: "Privacy Policy",
         path: "/privacy",
         newTab: false,
       },
       {
-        id: 42,
+        id: 94,
         title: "Terms of Service",
         path: "/terms",
         newTab: false,
