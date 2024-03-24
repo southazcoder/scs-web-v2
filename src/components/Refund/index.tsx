@@ -1,7 +1,7 @@
 import React from "react";
 import { Checkmark } from "../Svg";
 
-const checkIcon = <Checkmark />;
+const checkIcon = <Checkmark width={14} height={13} />;
 
 const RefundPage = () => {
   // TODO: Make this a reusable control with option to change the checkmark to numbers

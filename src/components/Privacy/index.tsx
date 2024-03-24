@@ -1,7 +1,7 @@
 import React from "react";
 import { Checkmark } from "../Svg";
 
-const checkIcon = <Checkmark />;
+const checkIcon = <Checkmark width={14} height={11} />;
 
 const PrivacyPage = () => {
   const List = ({ text }) => (

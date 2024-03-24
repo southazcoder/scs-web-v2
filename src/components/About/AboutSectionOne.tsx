@@ -2,7 +2,7 @@ import Image from "next/image";
 import SectionTitle from "../Common/SectionTitle";
 import { Checkmark } from "../Svg";
 
-const checkIcon = <Checkmark />;
+const checkIcon = <Checkmark width={14} height={11} />;
 
 const AboutSectionOne = () => {
   const List = ({ text }) => (
