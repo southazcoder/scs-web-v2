@@ -27,39 +27,33 @@ const menuData: Menu[] = [
   },
   {
     id: 9,
-    title: "Pages",
+    title: "Support Pages",
     newTab: false,
     submenu: [
       {
         id: 91,
-        title: "Contact Us",
-        path: "/contact",
-        newTab: false,
-      },
-      {
-        id: 92,
         title: "Support",
         path: "/support",
         newTab: false,
       },
       {
-        id: 93,
+        id: 92,
         title: "Privacy Policy",
         path: "/privacy",
         newTab: false,
       },
       {
-        id: 94,
+        id: 93,
         title: "Terms of Service",
         path: "/terms",
         newTab: false,
       },
-      // {
-      //   id: 41,
-      //   title: "About Page",
-      //   path: "/about",
-      //   newTab: false,
-      // },
+      {
+        id: 94,
+        title: "Refund Policy",
+        path: "/refund",
+        newTab: false,
+      },
       // {
       //   id: 42,
       //   title: "Contact Page",
@@ -103,6 +97,12 @@ const menuData: Menu[] = [
       //   newTab: false,
       // },
     ],
+  },
+  {
+    id: 10,
+    title: "Contact Us",
+    path: "/contact",
+    newTab: false,
   },
 ];
 export default menuData;
