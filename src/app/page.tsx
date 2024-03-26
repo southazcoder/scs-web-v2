@@ -23,6 +23,7 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
+  // throw new Error("don't catch me for a 500 response");
   return (
     <>
       <ScrollUp />
